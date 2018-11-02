@@ -1,0 +1,14 @@
+/target/
+
+.exe
+.jar
+bin
+/target/
+.project
+.class
+classpath
+*.war
+*.ear
+.settings
+.factorypath
+
